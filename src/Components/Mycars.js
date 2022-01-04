@@ -31,7 +31,6 @@ class Mycars extends Component {
         return (
             <div>
                 <h1>{this.props.title} </h1>
-                //this.props.
 
                 <button onClick={this.addTenYears}>+ 10 ans</button>
 
